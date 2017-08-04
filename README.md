@@ -2,23 +2,10 @@
 
 This documents a hybrid generator / 12V setup to provide electricity for a camp of 40 people.
 
---
+# How to fork this for your own camp
 
-![Diagram](http://fsackur.github.io/SLAP/diagram.png)
-
-<a href="http://fsackur.github.io/SLAP/edit-diagram.html?repo=SLAP&path=diagram.png" target="_blank">Edit</a>
-
-<a href="http://fsackur.github.io/SLAP/edit-diagram.html" target="_blank">edit-diagram.html</a> does the I/O with GitHub and uses draw.io in embed mode for diagram editing. The page supports the following URL parameters: user, pass, repo, path, ref and action=open (the Edit link above is an example). Using action=open, links for immediate diagram editing in GitHub can be created (requires user and pass parameters). You can also use files on GitHub as templates in draw.io via the url parameter (see Edit As New above).
-
-Supported file formats: .png, .svg, .html and .xml (default)
-
-## Self-editing SVG file
-
-![Self-editing Diagram](http://fsackur.github.io/SLAP/self-editing.svg)
-
-<a href="http://fsackur.github.io/SLAP/self-editing.svg" target="_blank">self-editing.svg</a> is an SVG file with embedded PNG data (as a workaround for missing foreignObject support in Internet Explorer). This combines an image format (eg. for <img src="...") with scripting for GitHub integration. (Click on the link, not the image to enable editing.)
-
-## Self-editing HTML file
-
-<a href="http://fsackur.github.io/SLAP/self-editing.html" target="_blank">self-editing.html</a> is a HTML file with embedded diagrams. The file uses nanocms.js for GitHub I/O and diagram editing, and Bootstrap and nanocms.css for some fancy CSS styles. HTML is used as a container for mutiple diagrams in different formats, including inline SVG with links.
-
+1. Log into <a href="https://github.com/">github</a> (create an account if you don't have one already)
+2. Fork this repository
+3. Before doing anything else, if you want to rename your fork, go to Settings > edit the name of the repo > Save
+4. Edit the README.md file. Replace my username in all the links with your own. If you renamed the repository, replace that too
+5. Customise the repository to meet your own needs by editing .md files.
