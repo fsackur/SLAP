@@ -15,7 +15,6 @@ This documents a hybrid generator / 12V setup to provide electricity for a camp 
 
 - <a href="Connectors/COnnectors.md">Connectors</a>
 
-
 # Toolkit
 
 The camp toolkit must contain the following:
