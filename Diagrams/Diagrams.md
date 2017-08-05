@@ -1,1 +1,1 @@
-[![Click to edit in draw.io](Master Diagram.xml)](https://www.draw.io/#Hfsackur%2FSLAP%2FDiagram%2FDiagrams%2FMaster%20Diagram.xml)
+[![Click to edit in draw.io](Master Diagram.svg)](../drawio-github/edit-diagram.html?repo=SLAP&path=Master%2FDiagram.xml)
