@@ -13,7 +13,7 @@ This documents a hybrid generator / 12V setup to provide electricity for a camp 
 
 # ToC
 
-- <a href="Connectors/COnnectors.md">Connectors</a>
+- <a href="Connectors/Connectors.md">Connectors</a>
 
 # Toolkit
 
