@@ -19,9 +19,7 @@ We've settled on the following:
 
 ## AC
 
-```
 **Remember that the female end must be fitted to the power source side, and the male end must be fitted to the appliance side.** The male end is the connector with visible metal prongs; don't be fooled by the fact that the female end might be inserted into the housing of the male end.
-```
 
 ### IEC-309
 
