@@ -6,10 +6,6 @@ We've settled on the following:
 
 ## AC
 
-```
-**Remember that the female end must be fitted to the power source side, and the male end must be fitted to the appliance side.** The male end is the connector with visible metal prongs; don't be fooled by the fact that the female end might be inserted into the housing of the male end.
-```
-
 ### IEC-309
 
 <img src="888-3126-NS small.jpg" class="inline"/>
@@ -23,6 +19,8 @@ These are tough but bulky. We use these between the generator and any junction b
 Rated at 16A.
 
 ### IEC-C13
+
+<img src="iec-c14-male-iec-c13-female-power-extension-jumper-lead.jpg" class="inline"/>
 
 Also know as a "kettle lead". Used for 110-240VAC where we can keep the connectors dry. (Technically, the male is C13 and the female is C14.)
 
@@ -42,6 +40,12 @@ _We wouldn't push anything like this current over any part of our DC circuit. We
 
 ### 2.1/5.5 barrel jack
 
+<img src="CAB21-25_1.jpg" class="inline"/>
+
 This is by far the most common connector for portable devices that take 12V. Commercially-available portable devices are usually wired them tip-positive, so we have made that our standard. (Tip, in this context, referring to the inside bit.) This has the happy effect of enabling us to plug in lots of commercial products directly.
 
 Ratings vary, but we try to avoid exceeding 2A.
+
+
+
+**Remember that the female end must be fitted to the power source side, and the male end must be fitted to the appliance side.** The male end is the connector with visible metal prongs; don't be fooled by the fact that the female end might be inserted into the housing of the male end.
