@@ -15,3 +15,7 @@ This documents a hybrid generator / 12V setup to provide electricity for a camp 
 
 - [Connectors](Connectors/Connectors.md)
 - [Toolkit](Toolkit/Toolkit.md)
+- [Diagrams](Diagrams/Diagrams.md)
+- [Generator](Generator/Generator.md)
+- [12V system](12V/12V.md)
+- [Sound system](Sound/SOund.md)
