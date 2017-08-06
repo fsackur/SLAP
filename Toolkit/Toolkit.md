@@ -5,22 +5,24 @@ The camp toolkit must contain the following:
 1. Stanley knives, x2
 2. Craft knives, x2
 3. Screwdriver selection (with x2 of the most commonly-used sizes)
-4. Wirestrippers, x2
-5. Crimping tool (this is required for the automotive connectors)
-6. Heatshrink tubing, assorted
-7. Electrical tape
-8. Gaffa tape
-9. Spare connectors
-10. Spare cable, of various types
-11. Automotive blade fuses
-12. Terminal strips ("Chocolate block" connectors)
-13. Lever nuts
-14. A multimeter
+4. Wirestrippers, x2 (at least one of these should be a high-quality tool)
+5. Side-handled cutters, large
+6. Crimping tool (this is required for the automotive connectors) (this may be incorporated into the wire strippers)
+7. Heatshrink tubing, assorted
+8. Electrical tape
+9. Gaffa tape
+10. Spare connectors
+11. Spare cable, of various types
+12. Automotive blade fuses
+13. Terminal strips ("Chocolate block" connectors)
+14. Lever nuts
+15. Multimeter
 
 Nice to have:
 
-12. Spade connectors
-13. Spare car battery terminals
-14. A hoe or trenching tool, for burying cable
+16. Spade connectors
+17. Spare car battery terminals
+18. A hoe or trenching tool, for burying cable
+19. Side-handled cutters, small
 
 The reason for requiring 2 of the common tools is that there's often a lot of work at setup time, and two people can get it done faster.
