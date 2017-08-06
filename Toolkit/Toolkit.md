@@ -28,4 +28,4 @@ Nice to have:
 
 The reason for requiring 2 of the common tools is that there's often a lot of work at setup time, and two people can get it done faster.
 
-It's assumed that the camp will have
+It's assumed that the camp will have a drill/driver and boxes of screws; it's necessary to fix some electrical fittings into beams to keep them off the ground (for accessibility, and to avoid splashes from wet conditions).
