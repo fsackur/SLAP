@@ -17,12 +17,15 @@ The camp toolkit must contain the following:
 13. Terminal strips ("Chocolate block" connectors)
 14. Lever nuts
 15. Multimeter
+16. Adjustable spanner or wrench, to work with car battery terminals
 
 Nice to have:
 
-16. Spade connectors
-17. Spare car battery terminals
-18. A hoe or trenching tool, for burying cable
-19. Side-handled cutters, small
+17. Spade connectors
+18. Spare car battery terminals
+19. A hoe or trenching tool, for burying cable
+20. Side-handled cutters, small
 
 The reason for requiring 2 of the common tools is that there's often a lot of work at setup time, and two people can get it done faster.
+
+It's assumed that the camp will have
